@@ -3,10 +3,8 @@
 
 #include "GameCraft.h"
 
-using namespace std;
-
 int main()
 {
-	cout << "Hello CMake." << endl;
+	std::cout << "Game engine text." << std::endl;
 	return 0;
 }
