@@ -4,5 +4,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="GameCraft/GameCraft.vcxproj" />
+  <Project Path="Sandbox/Sandbox.vcxproj" Id="00f012b8-54a8-48b0-8a58-d61e3155363f" />
+  <Project Path="GameCraft/GameCraft.vcxproj" Id="b6f5d47e-d5b2-4d1f-a5e7-350f6fc57b0f" />
 </Solution>
