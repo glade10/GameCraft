@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title4">GameCraftIcon</title>
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <path
+       id="path3"
+       style="fill:#01e500;stroke-width:1.33333;fill-opacity:1"
+       d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 L 40 24 A 16 16 0 0 1 24 40 A 16 16 0 0 1 8 24 A 16 16 0 0 1 24 8 L 24 0 z " />
+    <path
+       style="fill:#01e500;fill-opacity:1"
+       d="m 24,16 -8,8 8,8 8,-8 z"
+       id="path1" />
+  </g>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>GameCraftIcon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
