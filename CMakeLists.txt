@@ -13,3 +13,4 @@ project ("GameCraft")
 
 # Include sub-projects.
 add_subdirectory ("API")
+add_subdirectory ("Example")
